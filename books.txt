@@ -1,0 +1,10 @@
+B001|Introduction to Algorithms|T. Cormen et al.|1
+B002|The C++ Programming Language|Bjarne Stroustrup|1
+B003|Data Structures and Algorithms|A. Aho|1
+B004|Operating System Concepts|Silberschatz|1
+B005|Database System Concepts|A. Silberschatz|1
+B006|Computer Networking|Kurose & Ross|1
+B007|Discrete Mathematics|K. Rosen|1
+B008|Digital Logic Design|M. Morris Mano|1
+B009|Artificial Intelligence: A Modern Approach|Russell & Norvig|1
+B010|Clean Code|Robert C. Martin|1
